@@ -1,0 +1,202 @@
+{  
+   "recordsTotal":0,
+   "recordsFiltered":0,
+   "employees":[  
+      {  
+         "empName":"Birendra kumar",
+         "empId":100,
+         "empDesignation":null,
+         "joiningDate":null,
+         "mgrId":0,
+         "fname":"Birendra",
+         "lname":"kumar"
+      },
+      {  
+         "empName":"sai charan",
+         "empId":103,
+         "empDesignation":null,
+         "joiningDate":null,
+         "mgrId":0,
+         "fname":"sai",
+         "lname":"charan"
+      },
+      {  
+         "empName":"Shreekar Mayya",
+         "empId":106,
+         "empDesignation":null,
+         "joiningDate":null,
+         "mgrId":0,
+         "fname":"Shreekar",
+         "lname":"Mayya"
+      },
+      {  
+         "empName":"prabhat kumar",
+         "empId":109,
+         "empDesignation":null,
+         "joiningDate":null,
+         "mgrId":0,
+         "fname":"prabhat",
+         "lname":"kumar"
+      },
+      {  
+         "empName":"ravikiran asd",
+         "empId":110,
+         "empDesignation":null,
+         "joiningDate":null,
+         "mgrId":0,
+         "fname":"ravikiran",
+         "lname":"asd"
+      },
+      {  
+         "empName":"arjun asd",
+         "empId":111,
+         "empDesignation":null,
+         "joiningDate":null,
+         "mgrId":0,
+         "fname":"arjun",
+         "lname":"asd"
+      },
+      {  
+         "empName":"Eshwar gowda",
+         "empId":112,
+         "empDesignation":null,
+         "joiningDate":null,
+         "mgrId":0,
+         "fname":"Eshwar",
+         "lname":"gowda"
+      },
+      {  
+         "empName":"ram ram",
+         "empId":113,
+         "empDesignation":null,
+         "joiningDate":null,
+         "mgrId":0,
+         "fname":"ram",
+         "lname":"ram"
+      },
+      {  
+         "empName":"ajay kumar",
+         "empId":130,
+         "empDesignation":null,
+         "joiningDate":null,
+         "mgrId":0,
+         "fname":"ajay",
+         "lname":"kumar"
+      },
+      {  
+         "empName":"bharat kumar",
+         "empId":131,
+         "empDesignation":null,
+         "joiningDate":null,
+         "mgrId":0,
+         "fname":"bharat",
+         "lname":"kumar"
+      },
+      {  
+         "empName":"kuldeep kumar",
+         "empId":132,
+         "empDesignation":null,
+         "joiningDate":null,
+         "mgrId":0,
+         "fname":"kuldeep",
+         "lname":"kumar"
+      },
+      {  
+         "empName":"karan kumar",
+         "empId":133,
+         "empDesignation":null,
+         "joiningDate":null,
+         "mgrId":0,
+         "fname":"karan",
+         "lname":"kumar"
+      },
+      {  
+         "empName":"arpit kumar",
+         "empId":134,
+         "empDesignation":null,
+         "joiningDate":null,
+         "mgrId":0,
+         "fname":"arpit",
+         "lname":"kumar"
+      },
+      {  
+         "empName":"amit kumar",
+         "empId":135,
+         "empDesignation":null,
+         "joiningDate":null,
+         "mgrId":0,
+         "fname":"amit",
+         "lname":"kumar"
+      },
+      {  
+         "empName":"raman kumar",
+         "empId":136,
+         "empDesignation":null,
+         "joiningDate":null,
+         "mgrId":0,
+         "fname":"raman",
+         "lname":"kumar"
+      },
+      {  
+         "empName":"shirish kumar",
+         "empId":137,
+         "empDesignation":null,
+         "joiningDate":null,
+         "mgrId":0,
+         "fname":"shirish",
+         "lname":"kumar"
+      },
+      {  
+         "empName":"sharat kumar",
+         "empId":138,
+         "empDesignation":null,
+         "joiningDate":null,
+         "mgrId":0,
+         "fname":"sharat",
+         "lname":"kumar"
+      },
+      {  
+         "empName":"anupriya sahu",
+         "empId":139,
+         "empDesignation":null,
+         "joiningDate":null,
+         "mgrId":0,
+         "fname":"anupriya",
+         "lname":"sahu"
+      },
+      {  
+         "empName":"ajith kumar",
+         "empId":140,
+         "empDesignation":null,
+         "joiningDate":null,
+         "mgrId":0,
+         "fname":"ajith",
+         "lname":"kumar"
+      },
+      {  
+         "empName":"Anupriya Sahu",
+         "empId":180,
+         "empDesignation":null,
+         "joiningDate":null,
+         "mgrId":0,
+         "fname":"Anupriya",
+         "lname":"Sahu"
+      }
+   ],
+   "appraisals":[  
+      {  
+         "cycleYear":"2017-2018",
+         "appraisalCycle":"H2",
+         "appraisalCycleStatusCode":"AS2",
+         "appraisalCycleStatus":"Inprogress",
+         "appraisalCycleId":1335,
+         "empId":0,
+         "cyclePeriodFrom":"01-10-2017",
+         "cyclePeriodTo":"31-03-2018",
+         "fname":null,
+         "lname":null,
+         "empName":null
+      }
+   ],
+   "associateCycleYearStatusList":null
+}
